@@ -23,11 +23,11 @@ To create your own list, simply edit the ```custom``` variable in **assets/js/wo
 
 **No installation required**
 
-Wordled can be played in the browser, simply open the index.html file in any browser to play
+Wordle Pro can be played in the browser, simply open the index.html file in any browser to play
 
 **Play online**
 
-Wordled can also be played online at [wordlepro.com](https://wordlepro.000webhostapp.com/)
+Wordle Pro can also be played online at [wordlepro.com](https://wordlepro.000webhostapp.com/)
 
 **Languages used**
 
